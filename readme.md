@@ -28,20 +28,19 @@
 ---
 
 ### 🚀 GitHub Stats
-
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Raven-coder0&show_icons=true&theme=merko&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Raven-coder0&show_icons=true&bg_color=E0E0E0&title_color=06402B&text_color=101010&icon_color=00CC00&hide_border=true" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Raven-coder0&theme=merko&hide_border=true" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Raven-coder0&theme=transparent&ring=00CC00&fire=00CC00&currStreakLabel=00CC00&currStreakNum=E0E0E0&sideNums=00CC00&sideLabels=00CC00&dates=101010&hide_border=true" />
 </p>
 
 ---
 
 ### 📈 Most Used Languages
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JagadeeshKommineni&layout=compact&theme=merko&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JagadeeshKommineni&theme=transparent&title_color=00CC00&text_color=E0E0E0&hide_border=true" />
 </p>
 
 ---
