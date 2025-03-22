@@ -19,11 +19,13 @@
 ### 🔧 Tech Stack
 
 ![Python](https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=00FF00)
-![Java](https://img.shields.io/badge/Java-000000?style=for-the-badge&logo=java&logoColor=00FF00)
-![Kali Linux](https://img.shields.io/badge/Kali_Linux-000000?style=for-the-badge&logo=linux&logoColor=00FF00)
+![Java](https://img.shields.io/badge/java-000000?style=for-the-badge&logo=openjdk&logoColor=00FF00)
+![Kali linux](https://img.shields.io/badge/Kali_linux-000000?style=for-the-badge&logo=kalilinux&logoColor=00ff00)
 ![HTML](https://img.shields.io/badge/HTML-000000?style=for-the-badge&logo=html5&logoColor=00FF00)
 ![CSS](https://img.shields.io/badge/CSS-000000?style=for-the-badge&logo=css3&logoColor=00FF00)
 ![JavaScript](https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript&logoColor=00FF00)
+![Hashcat](https://img.shields.io/badge/hashcat-000000?style=for-the-badge&logo=gitlab&logoColor=00FF00)
+
 
 ---
 
