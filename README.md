@@ -47,7 +47,7 @@
 
 ### 📫 Contact Me
 
-- 📧 **Email:** [your-email@example.com](mailto:your-email@example.com)
+- 📧 **Email:** [jagadeeshwork18@gmail.com ](mailto:jagadeeshwork18@gmail.com)
 - 🔗 **LinkedIn:** [linkedin.com/in/JagadeeshKommineni](https://linkedin.com/in/JagadeeshKommineni)
 - 🌐 **Portfolio:** [your-portfolio.com](https://your-portfolio.com)
 
