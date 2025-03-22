@@ -30,11 +30,11 @@
 ### 🚀 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=JagadeeshKommineni&show_icons=true&theme=merko&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Raven-coder0&show_icons=true&theme=merko&hide_border=true" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=JagadeeshKommineni&theme=merko&hide_border=true" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Raven-coder0&theme=merko&hide_border=true" />
 </p>
 
 ---
